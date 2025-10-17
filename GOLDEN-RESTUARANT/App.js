@@ -1,5 +1,5 @@
 import React from 'react';
-import FilterByCourseScreen from './screens/FilterByCourseScreen';
+import FilterByCourseScreen from 'filterbycourse.js';
 
 export default function App() {
   return <FilterByCourseScreen />;
